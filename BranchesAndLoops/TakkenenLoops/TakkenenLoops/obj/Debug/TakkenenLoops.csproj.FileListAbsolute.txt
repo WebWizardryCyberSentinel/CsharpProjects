@@ -1,0 +1,13 @@
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\bin\Debug\TakkenenLoops.exe.config
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\bin\Debug\TakkenenLoops.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\bin\Debug\TakkenenLoops.pdb
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\obj\Debug\TakkenenLoops.csprojResolveAssemblyReference.cache
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\obj\Debug\TakkenenLoops.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\obj\Debug\TakkenenLoops.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\obj\Debug\TakkenenLoops.csprojResolveAssemblyReference.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\obj\Debug\TakkenenLoops.csproj.CoreCompileInputs.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\obj\Debug\TakkenenLoops.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\obj\Debug\TakkenenLoops.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\bin\Debug\TakkenenLoops.exe.config
+C:\Users\Martin\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\bin\Debug\TakkenenLoops.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MSDN\Quick Starts\BranchesAndLoops\TakkenenLoops\TakkenenLoops\bin\Debug\TakkenenLoops.pdb
