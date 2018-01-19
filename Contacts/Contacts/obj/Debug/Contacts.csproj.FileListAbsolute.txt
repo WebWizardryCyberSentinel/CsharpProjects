@@ -1,0 +1,15 @@
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\bin\Debug\MySql.Data.xml
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\bin\Debug\Contacts.application
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.exe.manifest
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Contacts\Contacts\obj\Debug\Contacts.application

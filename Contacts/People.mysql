@@ -1,0 +1,64 @@
+-- MySQL dump 10.13  Distrib 5.6.13, for Win32 (x86)
+--
+-- Host: 127.0.0.1    Database: contactsdb
+-- ------------------------------------------------------
+-- Server version	5.7.20-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Current Database: `contactsdb`
+--
+
+/*!40000 DROP DATABASE IF EXISTS `contactsdb`*/;
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `contactsdb` /*!40100 DEFAULT CHARACTER SET utf8 */;
+
+USE `contactsdb`;
+
+--
+-- Table structure for table `people`
+--
+
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `people` (
+  `ContactID` int(11) NOT NULL,
+  `Name` varchar(45) DEFAULT NULL,
+  `Bedrijf` varchar(45) DEFAULT NULL,
+  `Telefoon` varchar(45) DEFAULT NULL,
+  `E-Mail` varchar(45) DEFAULT NULL,
+  `Client` bit(1) DEFAULT NULL,
+  `Laatste Oproep` datetime DEFAULT NULL,
+  PRIMARY KEY (`ContactID`),
+  UNIQUE KEY `ContactID_UNIQUE` (`ContactID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `people`
+--
+
+/*!40000 ALTER TABLE `people` DISABLE KEYS */;
+INSERT INTO `people` VALUES (1,'Liz Nelson','JTP','419-555-257','liznelson@jtp.org','','2004-03-09 00:00:00'),(2,'Lloyd Jones','Black Box inc','718-555-5638','Ljones@xblackboxinc.com','','2026-05-10 00:00:00'),(3,'Lucina Ericson','Ericson Events','212-555-9523','Lucy@Ericsonevents.info','\0','2017-05-10 00:00:00'),(4,'Matt Franks','XYZ Industries','212-555-8125','Matt.Franks@XYZindustries.com','','2026-05-10 00:00:00'),(5,'Sarah Kalter','Kalter, RIddle and Stoft','614-555-5641','Sarah@KRS.org','\0','2010-12-08 00:00:00'),(6,'Laverne Smith','XYZ Industries','212-555-8129','Laverne.Smith@XYZindustries.com','','2011-04-10 00:00:00');
+/*!40000 ALTER TABLE `people` ENABLE KEYS */;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2017-11-14  9:54:06
