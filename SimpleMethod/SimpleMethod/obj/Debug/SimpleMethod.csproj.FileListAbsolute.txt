@@ -1,0 +1,8 @@
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csprojResolveAssemblyReference.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb
