@@ -1,0 +1,7 @@
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Decisions\Decisions\bin\Debug\Decisions.exe.config
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Decisions\Decisions\bin\Debug\Decisions.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Decisions\Decisions\bin\Debug\Decisions.pdb
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Decisions\Decisions\obj\Debug\Decisions.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Decisions\Decisions\obj\Debug\Decisions.pdb
