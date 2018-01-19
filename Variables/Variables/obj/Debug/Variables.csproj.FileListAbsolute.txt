@@ -1,0 +1,7 @@
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Variables\Variables\bin\Debug\Variables.exe.config
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Variables\Variables\bin\Debug\Variables.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Variables\Variables\bin\Debug\Variables.pdb
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Variables\Variables\obj\Debug\Variables.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Variables\Variables\obj\Debug\Variables.pdb
