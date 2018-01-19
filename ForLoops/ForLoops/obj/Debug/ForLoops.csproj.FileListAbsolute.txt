@@ -1,0 +1,9 @@
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\bin\Debug\ForLoops.exe.config
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\bin\Debug\ForLoops.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\bin\Debug\ForLoops.pdb
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\obj\Debug\ForLoops.csprojResolveAssemblyReference.cache
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\obj\Debug\ForLoops.timetostartcoding.resources
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\obj\Debug\ForLoops.Properties.Resources.resources
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\obj\Debug\ForLoops.csproj.GenerateResource.Cache
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\obj\Debug\ForLoops.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\Head First C#\ForLoops\ForLoops\obj\Debug\ForLoops.pdb
