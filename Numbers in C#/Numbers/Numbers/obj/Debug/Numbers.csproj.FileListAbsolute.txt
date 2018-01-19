@@ -1,0 +1,6 @@
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\Numbers\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\Numbers\Numbers\obj\Debug\Numbers.pdb

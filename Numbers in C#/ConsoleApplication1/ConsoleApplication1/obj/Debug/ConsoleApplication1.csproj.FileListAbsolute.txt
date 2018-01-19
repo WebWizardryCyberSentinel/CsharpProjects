@@ -1,0 +1,6 @@
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MSDN\Quick Starts\Numbers in C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
