@@ -1,0 +1,13 @@
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\qynmt\stack\Privé\C\C#\Projects\MvA Fundamentals\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
