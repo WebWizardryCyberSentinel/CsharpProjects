@@ -1,0 +1,11 @@
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.manifest
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Debug\HelperMethods.application
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe.manifest
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Debug\HelperMethods.application

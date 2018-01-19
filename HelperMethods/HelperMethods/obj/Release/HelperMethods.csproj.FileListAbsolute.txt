@@ -1,0 +1,6 @@
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Release\HelperMethods.exe.config
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Release\HelperMethods.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\bin\Release\HelperMethods.pdb
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Release\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Release\HelperMethods.exe
+C:\Users\Martin\stack\Privé\C\C#\Projects\MvA Fundamentals\HelperMethods\HelperMethods\obj\Release\HelperMethods.pdb
