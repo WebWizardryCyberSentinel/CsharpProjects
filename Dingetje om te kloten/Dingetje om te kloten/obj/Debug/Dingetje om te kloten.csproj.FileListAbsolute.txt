@@ -1,0 +1,10 @@
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\obj\Debug\Dingetje om te kloten.csprojResolveAssemblyReference.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\obj\Debug\Dingetje_om_te_kloten.Form1.resources
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\obj\Debug\Dingetje_om_te_kloten.Properties.Resources.resources
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\obj\Debug\Dingetje om te kloten.csproj.GenerateResource.Cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\obj\Debug\Dingetje om te kloten.csproj.CoreCompileInputs.cache
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\bin\Debug\Dingetje om te kloten.exe.config
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\bin\Debug\Dingetje om te kloten.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\bin\Debug\Dingetje om te kloten.pdb
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\obj\Debug\Dingetje om te kloten.exe
+G:\Baap\Data\Stack\Privé\C\C#\Projects\Dingetje om te kloten\Dingetje om te kloten\obj\Debug\Dingetje om te kloten.pdb
